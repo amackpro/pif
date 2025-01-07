@@ -1,0 +1,9 @@
+{
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "DEVICE": "tokay",
+  "PRODUCT": "tokay_beta",
+  "MODEL": "Pixel 9",
+  "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP21.241121.009/12787338:user/release-keys",
+  "FIRST_API_LEVEL": "31"
+}
