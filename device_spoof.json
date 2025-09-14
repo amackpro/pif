@@ -1,9 +1,13 @@
 {
   "MANUFACTURER": "Google",
   "BRAND": "google",
-  "DEVICE": "tokay",
-  "PRODUCT": "tokay_beta",
-  "MODEL": "Pixel 9",
-  "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP21.241121.009/12787338:user/release-keys",
-  "FIRST_API_LEVEL": "31"
+  "DEVICE": "raven",
+  "PRODUCT": "raven_beta",
+  "MODEL": "Pixel 6 Pro",
+  "FINGERPRINT": "google/raven_beta/raven:16/BP31.250610.009/13905196:user/release-keys",
+  "SECURITY_PATCH": "2025-07-05",
+  "FIRST_API_LEVEL": "34",
+
+  "spoofProvider": "true",
+  "spoofVendingSdk": "false"
 }
